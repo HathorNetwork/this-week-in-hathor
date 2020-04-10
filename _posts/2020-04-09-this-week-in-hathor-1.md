@@ -51,9 +51,8 @@ could improve [we'd love to hear them](https://github.com/HathorNetwork/this-wee
 Always wanted to contribute to open-source projects but didn't know where to start? We have selected issues that should
 be easier for newcomers.
 
-This week there are [3 of such
+This week there are [2 of such
 issues](https://github.com/search?q=org%3AHathorNetwork+label%3A%22good+first+issue%22&state=open&type=Issues):
 
 - hathor-wallet: [Wallet initial size can cut off some elements](https://github.com/HathorNetwork/hathor-wallet/issues/90)
-- hathor-wallet-mobile: [Tx history is not showing a reward lock marker](https://github.com/HathorNetwork/hathor-wallet-mobile/issues/43)
 - hathor-core: [There is no warning/debug log when a peer is rejected](https://github.com/HathorNetwork/hathor-core/issues/19)
