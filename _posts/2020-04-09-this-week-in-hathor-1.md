@@ -3,6 +3,8 @@ layout: post
 title: This Week in Hathor 1
 ---
 
+# This Week in Hathor 1
+
 Hello and welcome to the first issue of This Week in Hathor! Hathor is a new architecture for tokenization, radically
 simple.  This is a weekly summary of its progress and community. Want something mentioned? [Send us a pull
 request](https://github.com/HathorNetwork/this-week-in-hathor). Want to get involved? We love contributions.
