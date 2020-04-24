@@ -3,11 +3,14 @@ layout: post
 title: This Week in Hathor 1
 ---
 
+9 APR 2020
+
 # This Week in Hathor 1
 
-Hello and welcome to the first issue of This Week in Hathor! Hathor is a new architecture for tokenization, radically
-simple.  This is a weekly summary of its progress and community. Want something mentioned? [Send us a pull
-request](https://github.com/HathorNetwork/this-week-in-hathor). Want to get involved? We love contributions.
+Hello and welcome to the first issue of This Week in Hathor! [Hathor](https://hathor.network/) is a new architecture
+for tokenization, radically simple.  This is a weekly summary of its progress and community. Want something mentioned?
+[Send us a pull request](https://github.com/HathorNetwork/this-week-in-hathor). Want to get involved? We love
+contributions.
 
 This Week in Hathor is openly developed [on GitHub](https://github.com/HathorNetwork/this-week-in-hathor). If you find
 any errors in this week's issue, [please submit a PR](https://github.com/HathorNetwork/this-week-in-hathor). This Week
