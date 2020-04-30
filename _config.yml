@@ -1,3 +1,9 @@
-name: This Week in Hathor
+title: This Week in Hathor
 description: Weekly updates from Hathor Network project and community
+theme: minima
+minima:
+  date_format: "%d %b %Y"
 google_analytics: UA-121184583-2
+mailchimp:
+  u: 331110a86070a1e258a708ab5
+  id: 8fd980e955
