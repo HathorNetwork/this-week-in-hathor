@@ -1,7 +1,9 @@
 # This Week in Hathor
 
 Is a weekly aggregator of news, updates, announcements and anything interesting related to [Hathor
-Network](https://hathor.network/).
+Network](https://hathor.network/). It is heavily inspired on [This Week in Rust](https://this-week-in-rust.org/). Any
+content is available under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) and any code (HTML and SCSS
+included) under [the MIT license](https://mit-license.org/).
 
 
 ## Bulding locally
