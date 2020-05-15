@@ -1,0 +1,12 @@
+{
+  "name": "this-week-in-hathor-mailchimp",
+  "version": "0.0.1",
+  "description": "`npm install`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mailchimp-api-v3": "^1.13.1"
+  }
+}
