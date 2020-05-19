@@ -1,0 +1,6 @@
+module.exports = {
+  // Mailchimp account API key
+  apiKey: '',
+  // Audience list id to create campaign
+  listId: '',
+};

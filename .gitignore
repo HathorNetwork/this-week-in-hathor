@@ -1,3 +1,5 @@
 .jekyll-cache
 .jekyll-metadata
 /_site
+mailchimp/config.js
+mailchimp/node_modules
