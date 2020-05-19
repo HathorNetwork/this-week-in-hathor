@@ -10,9 +10,9 @@
 
 ## Send test email
 
-You need the email to send and the campaign id or name.
+You need the destination email address and the campaign id or name.
 
-`node test.js to_email id campaignId` or `node test.js to_email name campaignName`
+`node test.js email_address id campaignId` or `node test.js email_address name campaignName`
 
 
 Node > 10 is required.
