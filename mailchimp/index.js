@@ -91,7 +91,7 @@ const execute = async () => {
     html,
   });
 
-  console.log('Campaign created!\n', subject);
+  console.log(`Campaign created!\nCampaign: ${subject}\nID: ${campaign.id}`);
 }
 
 execute();
