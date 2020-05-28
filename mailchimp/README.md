@@ -12,7 +12,7 @@
 
 You need the destination email address and the campaign id or name.
 
-`node test.js email_address id campaignId` or `node test.js email_address name campaignName`
+`node simulate.js email_address id campaignId` or `node simulate.js email_address name campaignName`
 
 
 Node > 10 is required.
