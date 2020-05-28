@@ -8,4 +8,11 @@
 2. Generate html file for the 'This Week in Hathor' week post;
 3. Execute `node index.js number htmlPath`, where `number` is the week number and `htmlPath` is the path to the html file.
 
+## Send test email
+
+You need the destination email address and the campaign id or name.
+
+`node simulate.js email_address id campaignId` or `node simulate.js email_address name campaignName`
+
+
 Node > 10 is required.
