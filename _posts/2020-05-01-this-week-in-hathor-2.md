@@ -13,9 +13,6 @@ GitHub](https://github.com/HathorNetwork/this-week-in-hathor){:target="_blank"}.
 any errors in this week's issue, [please submit a
 PR](https://github.com/HathorNetwork/this-week-in-hathor){:target="_blank"}.
 
-This one took a bit longer than it should, while the first one was bareley publicized. For that reason it will contain
-all that happened after the previous issue. Expect them to be release regularly soon.
-
 ## News & Blog Posts
 
 - [Ethereum x Hathor: comparing token platforms](https://medium.com/hathor-network/ethereum-x-hathor-comparing-token-platforms-ca898a593477){:target="_blank"}
